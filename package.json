@@ -1,0 +1,12 @@
+{
+  "name": "email_sender",
+  "version": "1.0.0",
+  "description": "we are developing email sender app",
+  "main": "server.js",
+  "author": "shashi",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "nodemailer": "^6.4.16"
+  }
+}
